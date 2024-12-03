@@ -1,22 +1,25 @@
-Welcome to Lumache's documentation!
+J88 - Nhà cái số uy tín số 1 hiện nay. 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`J88 <https://j88com.works/>`_ là cổng game bài đổi thưởng uy tín số 1 Việt Nam với kho tàng game đa dạng, phong phú, hệ thống nạp rút tiền nhanh chóng, an toàn và đội ngũ hỗ trợ chuyên nghiệp 24/7.
+Địa chỉ: 2551 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Phone: 0892222879
 
-.. note::
+Website: https://j88com.works/ 
 
-   This project is under active development.
+#j88 #trangchuj88 #dangkyj88 #dangnhapj88 #linkj88
 
-Contents
---------
+https://j88com.works/casino-j88/
 
-.. toctree::
+https://j88com.works/game-bai-j88/
 
-   usage
-   api
+https://j88com.works/the-thao-j88/
+
+https://j88com.works/no-hu-j88/
+
+https://j88com.works/ban-ca-j88/
+
+https://j88com.works/xo-so-j88/
+
+https://j88com.works/da-ga-j88/
